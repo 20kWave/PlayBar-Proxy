@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    overflow: visible;
+    height: 900px;
+}
+
+#contentWrapper {
+    position: absolute;
+    top: 380px;
+    width: 100%;
+}
+
+#contentProxy {
+    width: 1180px;
+    height: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px 30px;
+}
+
+#comments {
+    float: left;
+    margin-top: -20px;
+}
+
+#sideBarWrapper {
+    position: relative;
+    float: right;
+    border-left: 1px solid rgb(242, 242, 242);
+    padding-left: 30px;
+    height: 90%
+}
+
+#sidebar {
+    float: right;
+}
