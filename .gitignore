@@ -1,1 +1,7 @@
 node_modules
+
+config.js
+
+playbarProxy_key_pair.pem
+
+newrelic_agent.log
